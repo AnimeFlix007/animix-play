@@ -1,0 +1,19 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.app {
+  min-height: 100vh;
+  padding-top: 75px;
+  padding-bottom: 70px;
+}
+
+.app.light {
+  background-color: #fff;
+  color: black;
+}
+
+.app.dark {
+  background-color: #1c1c1d;
+  color: white;
+}
